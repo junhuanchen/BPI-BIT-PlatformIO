@@ -6,6 +6,7 @@
     > We need to prepare a text editor in advance (VSCode or Atom)
     
      [Visual Studio Code(VSCode)](https://code.visualstudio.com/)
+     
      [Atom](https://atom.io/)
 
 + ### PlatformIO IDE
