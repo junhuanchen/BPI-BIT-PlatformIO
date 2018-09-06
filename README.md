@@ -7,6 +7,7 @@ We need to prepare a text editor in advance (VSC or Atom)
 
 
  [Visual Studio Code(VSCode)](https://code.visualstudio.com/)
+
  [Atom](https://atom.io/)
 
 ## Platform IO:
@@ -14,15 +15,7 @@ We need to prepare a text editor in advance (VSC or Atom)
 
 ![Step 1](/docs/pio-1.png)
 
-+ ### Install PlatformIO IDE for VSCode (Recommend)
-    - ##### Installation Instruction:
-
-        > [PlatformIO official documentation(PlatformIO IDE for VSCode)](https://docs.platformio.org/en/latest/ide/vscode.html#ide-vscode)
-         1. Open VSCode Package Manager
-         2. Search for official `platformio-ide` extension
-         3. Install PlatformIO IDE.
-
-             ![Step 2](/docs/pio-2.png)
+[Install PlatformIO IDE for VSCode](/PIO_for_VSCode.md)
 
 + ### Install PlatformIO IDE for Atom
     - ##### Installation Instruction:
