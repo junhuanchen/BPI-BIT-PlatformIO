@@ -24,3 +24,7 @@
 #### 主要测试功能介绍：
 
 - 通过BPI:bit robot expansion board控制四组舵机依次旋转，从最小角度旋转到最大角度，然后再反向运动。
+
+#### 支持库安装
+- 首先需要安装库：[PCA9685 PWM Servo Driver Library](https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library)
+- 库安装方法：在Platform IO的扩展库管理器面搜索
